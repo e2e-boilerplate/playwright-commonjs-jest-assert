@@ -1,7 +1,7 @@
 {
-  "name": "playwright-commonjs-jest-expect",
+  "name": "playwright-commonjs-jest-assert",
   "version": "1.0.0",
-  "description": "Playwright end-to-end test automation boilerplate project. Using commonjs and Jest.",
+  "description": "Playwright end-to-end test automation boilerplate project. Using commonjs and Assert.",
   "scripts": {
     "test": "jest",
     "lint": "npx eslint --ext .js ./ --fix"
