@@ -1,16 +1,18 @@
 {
   "name": "playwright-commonjs-jest-assert",
   "version": "1.0.0",
-  "description": "Playwright end-to-end test automation boilerplate project. Using commonjs and Assert.",
+  "description": "Playwright end-to-end test automation boilerplate, using CommonJS, Jest and Assert.",
   "scripts": {
-    "test": "jest",
-    "lint": "npx eslint --ext .js ./ --fix"
+    "lint": "npx eslint --ext .js ./ --fix",
+    "test": "jest"
   },
   "keywords": [
     "puppeteer",
     "jest",
     "boilerplate",
-    "example"
+    "example",
+    "e2e",
+    "e2e test"
   ],
   "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
   "license": "MIT",
