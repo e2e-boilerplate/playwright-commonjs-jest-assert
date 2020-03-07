@@ -1,5 +1,5 @@
 {
-  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
+  "author": "",
   "description": "Playwright end-to-end test automation boilerplate, using CommonJS, Jest and Assert.",
   "devDependencies": {
     "eslint": "6.8.0",
@@ -21,12 +21,7 @@
   },
   "keywords": [
     "assert",
-    "boilerplate",
     "commonjs",
-    "e2e",
-    "e2e tests",
-    "example",
-    "integration test",
     "jest",
     "playwright"
   ],
