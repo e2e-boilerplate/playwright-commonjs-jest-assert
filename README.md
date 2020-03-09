@@ -6,7 +6,7 @@ Playwright end-to-end test automation boilerplate, using Commonjs, Jest and Asse
 
 ## Getting Started
 
-git clone git@github.com:e2e-boilerplate/playwright-commonjs-jest-assert.git
-cd playwright-commonjs-jest-assert
-npm install
-npm run test
+    	git clone git@github.com:e2e-boilerplate/playwright-commonjs-jest-assert.git
+    	cd playwright-commonjs-jest-assert
+    	npm install
+    	npm run test
