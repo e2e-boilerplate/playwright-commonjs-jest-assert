@@ -2,7 +2,7 @@
     
 # Playwright Boilerplate
     
-Playwright end-to-end test automation boilerplate, Using Commonjs, Jest and Assert.
+Playwright end-to-end test automation boilerplate, Using [Commonjs](https://requirejs.org/docs/commonjs.html), [Jest](https://jestjs.io) and Assert.
     
 ## Getting Started
     	1. git clone git@github.com:e2e-boilerplate/playwright-commonjs-jest-assert.git
